@@ -1,6 +1,6 @@
 public class NumberPalindrome {
     public static void main(String[] args) {
-        int number = 12321;
+        int number = 5775;
         
         if (isNumberPalindrome(number)) {
             System.out.println(number + " is a palindrome number.");
